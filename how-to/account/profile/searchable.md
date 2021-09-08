@@ -11,9 +11,9 @@ To make your resume searchable:
 
 1. Sign into USAJOBS and go to your **Profile**.
 2. Go to **Documents**—your resumes will appear in your **Documents**.
-3. Click the **Searchable** checkbox on the resume you want to make searchable—if your profile is complete, it will become searchable too.
+3. Click **Searchable** on the resume you want to make searchable—if your profile is complete, your resume will become searchable as well.
 
-If you want to remove your resume from the resume bank, deselect the **Searchable** checkbox.
+If you want to remove your resume from the resume bank, you will have to select another resume.
 
 Keep in mind:
 
@@ -23,7 +23,7 @@ Keep in mind:
 * Your profile will be searchable too, if it’s complete.
 
 ## Why make my resume and profile searchable?
-Making your resume searchable adds it to the USAJOBS resume bank. HR specialists and hiring managers from federal agencies use the resume bank to look for people (with a searchable resume in their USAJOBS profile) to fill their job vacancies. 
+Making your resume searchable adds it to the USAJOBS resume bank. Hiring specialists and hiring managers from federal agencies use the resume bank to look for people (with a searchable resume in their USAJOBS profile) to fill their job vacancies. 
 
 Plus, when your resume is searchable and you have completed your profile, your profile is searchable too.
 
