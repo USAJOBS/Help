@@ -1,11 +1,11 @@
 public:
-  title: The Public
+  title: Open to the public
   text: "If you’re a U.S. citizen or national you can apply to jobs that are open to the public."
   icon: public
-  subtext: "U.S. citizens, nationals, or those who owe allegiance to the U.S."
+  subtext: "U.S. citizens, nationals or those who owe allegiance to the U.S."
   icon-no-image: true
   link-path: public
-  search-filter-desc: "Jobs open to U.S. citizens, nationals, or individuals who owe allegiance to the U.S."
+  search-filter-desc: "Jobs open to U.S. citizens, nationals or individuals who owe allegiance to the U.S."
   search-filter-value: "public"
   include-in-index: true
 
@@ -24,7 +24,7 @@ federal-employees:
 
 veterans:
   title: Veterans
-  text: "If you’re a Veteran who served on active duty in the U.S. Armed Forces and were separated under honorable conditions, you may be eligible for veterans’ preference, as well as other veteran specific hiring options."
+  text: "If you’re a veteran who served on active duty in the U.S. Armed Forces and were separated under honorable conditions, you may be eligible for veterans’ preference, as well as other veteran specific hiring options."
   subtext: Veterans of the U.S. Armed Forces.
   image-alt: "Soldier saluting the American flag."
   icon: veterans
@@ -45,13 +45,13 @@ military-spouses:
   include-in-index: true
 
 national-guard:
-  title: National Guard & Reserves
+  title: National Guard & reserves
   text: "If you’re a member of the National Guard, or are willing and able to join the National Guard, you may be eligible to apply for federal jobs located within a National Guard unit. "
   subtext: Current members, those who want to join or transitioning military members.
-  image-alt: "National guradsman"
+  image-alt: "National guardsman"
   icon: national-guard
   link-path: national-guard
-  search-filter-desc: "Jobs open to current National Guard members, reserves, or transitioning military members."
+  search-filter-desc: "Jobs open to current National Guard members, reserves or transitioning military members."
   search-filter-value: "nguard"
   include-in-index: true
 
@@ -70,7 +70,7 @@ students:
 ses:
   title: Senior executives
   text: "You may be eligible for a Senior Executive Service position if you meet the five Executive Core Qualifications (ECQs)."
-  subtext: Individuals looking for an executive level job.
+  subtext: Individuals looking for an executive level job and who meet the five Executive Core Qualifications (ECQs).
   image-alt: "A pen resting on an open notebook."
   icon: ses
   link-path: senior-executive-service
@@ -93,7 +93,7 @@ individuals-with-disabilities:
 
 family-of-overseas-employees:
   title: Family of overseas employees
-  text: "The Federal Government offers several hiring programs for family members of federal employees, or uniformed service members, who are working or have worked overseas."
+  text: "The federal government offers several hiring programs for family members of federal employees or uniformed service members, who are working or have worked overseas."
   subtext: Family members of a federal employee or uniformed service member who is, or was, working overseas.
   image-alt: "Fighter jets"
   icon: family-of-overseas-employees
@@ -126,7 +126,7 @@ peace-corps:
 
 special-authorities:
   title: "Special authorities"
-  text: "The Federal Government offers other special hiring paths (also known as a hiring authority) to help hire individuals that represent our diverse society."
+  text: "The federal government offers other special hiring paths (also known as a hiring authority) to help hire individuals that represent our diverse society."
   subtext: Individuals eligible under a special authority not listed above, but defined in the federal hiring regulations.
   icon-no-image: true
   icon: special-authorities
