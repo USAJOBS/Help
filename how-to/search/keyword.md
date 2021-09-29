@@ -7,8 +7,12 @@ breadcrumb: Keyword (tips)
 category: Search
 tags: [search, keywords, tips]
 ---
+## What is searching by keyword?  
 
-Use the keyword search box to enter a job title, department, agency, job series or other keywords. The keyword search box is located at the top of the page. You may have to click the search icon in the upper right corner to make the search box appear.
+Searching by a suggested keyword gives you more specific search results than searching more broadly on USAJOBS. For example, instead of searching for "attorney", you can select "patent attorney" and search for announcements with that keyword.  
+
+## How to search by keyword
+Use the keyword search box to start entering a job title, department, agency, job series or other keywords. We will provide a list of keywords you can choose from. The keyword search box is located at the top of the page. You may have to click the search icon in the upper right corner to make the search box appear.
 
 ## Search for a single keyword
 
