@@ -10,7 +10,7 @@ tags: [job announcement, how to apply, support-job-announcement]
 
 The **How to Apply** section explains:
 
-* The application steps.
+* The application steps, including a link to the **Application Questionnaire**, if it’s required. 
 * Other ways to apply for the job if you can't apply online.
 * What happens next, after you apply.
 
