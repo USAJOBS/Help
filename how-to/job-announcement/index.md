@@ -13,11 +13,10 @@ Federal agencies post job announcements on USAJOBS to advertise their current jo
 The job announcement includes the following sections:
 
 * [Overview](overview/)
-* [Locations](locations/)
 * [Duties](duties/)
 * [Requirements](requirements/)
+* [How you'll be evaluated](evaluated/)
 * [Required documents](required-documents/)
-* [Benefits](benefits/)
 * [How to apply](how-to-apply/)
 
 ## Start your application
