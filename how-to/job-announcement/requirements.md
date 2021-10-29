@@ -23,10 +23,6 @@ The **Qualifications** section describes the experience, skills and other job re
 
 Read more about the [General Schedule qualification standards](https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/) or the [Federal Wage System qualifications](https://www.opm.gov/policy-data-oversight/classification-qualifications/federal-wage-system-qualifications/).
 
-## How you will be evaluated
+## Benefits 
 
-The **How You Will Be Evaluated** section describes how the agency will evaluate your application. This section may include additional evaluation criteria, such as including a writing sample or completing a job assessment.
-
-## Preview job questionnaire
-
-At the bottom of this section is a link to preview the job assessment questions—read these questions before you apply to the job. Your resume must support your answers to the job questionnaire.
+The benefits section describes the range of benefits available as an employee with the agency. [Learn more about benefits](../benefits/).

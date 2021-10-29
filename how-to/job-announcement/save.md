@@ -18,7 +18,7 @@ To save a job:
 4.	Click **Save Job** or the star icon next to the job title for each job you want to save. The link will change to **Saved** and the star will be filled in. This means the job is saved.
 5.	Review your saved jobs in the **Saved Jobs** section of your profile.
 
-You can also save a job when you're viewing a job announcement -- look for the same yellow star and click **Save**.
+You can also save a job when you're viewing a job announcement -- look under the **Apply** button for the same yellow star and click **Save**.
 
 ## Manage your saved jobs in your profile
 
@@ -35,7 +35,7 @@ By default, the most recent saved jobs are listed at the top, but you can **Sort
 
 ### Receive email notifications
 
-You can sign up to receive an email any time a saved job is scheduled to close in three calendar days. To receive email notifications, click on the **Notifications** icon and select the checkbox.
+You can sign up to receive an email any time a saved job is scheduled to close in three calendar days. To receive email notifications, click the **Notifications** icon at the top of the page and select the checkbox.
 
 ### View job announcement information
 
