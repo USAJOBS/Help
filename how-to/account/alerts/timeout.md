@@ -2,10 +2,10 @@
 permalink: /how-to/account/alerts/timeout/
 layout: article
 section: how-to
-title: How to remain logged in
+title: How to stay signed in
 breadcrumb: Timeout
 category: alert
 tags: [alert]
 ---
 
-After 15 minutes of inactivity on USAJOBS, users will be timed out. Inactivity counts as time not keying data into the system or actively searching for jobs. If a timeout occurs, any unsaved information entered will not be saved and will be lost. Be sure to save often and prior to leaving the computer for an extended amount of time. Timeouts are for your safety and to prevent information theft.
+We automatically sign out users after 20 minutes of inactivity. Inactivity counts as the amount of time you're not keying data into the system or actively searching for jobs. If a timeout occurs, any unsaved information will be lost. Be sure to save often and before you leave the computer for an extended amount of time. Timeouts are for your safety and to prevent information theft.
