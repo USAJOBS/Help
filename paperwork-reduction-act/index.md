@@ -6,7 +6,7 @@ title: Paperwork Reduction Act
 
 The Paperwork Reduction Act of 1995 (44 U.S.C. 3501 et. seq,) requires us (and all federal agencies) to tell you why we’re collecting information. The ‘act’ says an agency may not collect any information, and you’re not required to respond to the request for information, unless it has been approved by the Office of Management and Budget (OMB) and displays a current and valid OMB control number.
 
-The current OMB control number for the USAJOBS demographic information is 3046-0046 and it expires on 07/31/2023. The current OMB control number for the USAJOBS profile and resume information is 3206-0219 and it expires on 02/28/2021.
+The current OMB control number for the USAJOBS demographic information is 3046-0046 and it expires on 7/31/2023. The current OMB control number for the USAJOBS profile and resume information is 3206-0219 and it expires on 6/30/2024.
 We (USAJOBS, a program within the Office of Personnel Management) are collecting this information to help us plan for and assess affirmative employment program initiatives. You don’t have to fill out this information—it’s voluntary and will have no impact on your job application.
 
 We estimate it will take you five (5) minutes per question, including the time to review instructions, to complete filling out the information.
