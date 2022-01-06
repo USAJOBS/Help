@@ -50,6 +50,10 @@ NOTE: Currently, you will see **Reviewing applications** even if the hiring is c
 
 The agency withdrew the job announcement and did not hire anyone. An agency can cancel a job announcement any time after they post a job.
 
+**Job closed**
+
+The job's closing date passed, and the hiring agency did not receive any applications through our online application process. This status will also appear for jobs that do not accept online applications, and the closing date has passed.
+
 ## Are there status delays for faxed documents?
 
 Yes. If you [fax a resume or any other documents](../../account/documents/fax/), there may be a delay between when the documents are faxed and when they appear as received on an application. If you have questions about the status of your faxed documents, [contact the hiring agency](../agency/contact/).
