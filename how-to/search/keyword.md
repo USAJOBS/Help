@@ -22,6 +22,3 @@ When you enter a single keyword, we’ll look for all jobs that contain the keyw
 
 When you enter more than one keyword, we’ll look for jobs that contain all of the keywords together. Each of the keywords you enter must exist in the job announcement for that announcement to be returned. For example, if you enter "program analyst", we’ll look for jobs that contain both program and analyst together.
 
-## Search for an exact match
-
-You can use quotations to help you search for an exact match. For example, if you search for “physical fitness”, we’ll only show jobs that include the words “physical fitness” side-by-side.
