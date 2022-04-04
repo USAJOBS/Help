@@ -8,7 +8,7 @@ category: Resume
 tags: [application, resume, support-resume]
 ---
 
-Whether you're a current federal employee or new to the Federal Government, your resume is the primary way for you to communicate your education, skills and experience.
+Whether you're a current federal employee or new to the federal government, your resume is the primary way for you to communicate your education, skills and experience.
 
 ## Before you get started
 
@@ -18,7 +18,7 @@ Read the entire job announcement.  Focus on the following sections to understand
 * **How to Apply** (including a preview of the assessment questionnaire)
 * **How You Will be Evaluated**
 
-Make sure you have the required experience and/or education before you apply.  Hiring agencies use the job announcement to describe the job and the required qualifications, including:
+Make sure you have the required experience and/or education before you apply. Hiring agencies use the job announcement to describe the job and the required qualifications, including:
 
 * Level and amount of experience
 * Education
@@ -28,19 +28,28 @@ Make sure you have the required experience and/or education before you apply.  H
 
 Federal jobs often require that you have experience in a particular type of work for a certain period of time. You must show how your skills and experiences **meet the qualifications and requirements listed in the job announcement** to be considered for the job.
 
+### Include important contact information
+
+Don't forget to add current contact information. Most job applications require this information:
+* Address
+* Email
+* Phone number
+
+Read the job opportunity carefully to make sure you have included all required contact information. 
+
 ### Include dates, hours, level of experience and examples for each work experience
 
 For each work experience you list, make sure you include:
 
 * Start and end dates (including the month and year).
 * The number of hours you worked per week.
-* The level and amount of experience--for instance, whether you served as a project manager or a team member helps to illustrate your level of experience.
+* The level and amount of experience—for instance, whether you served as a project manager or a team member helps to illustrate your level of experience.
 * Examples of relevant experiences and accomplishments that prove you can perform the tasks at the level required for the job as stated in the job announcement. Your experience needs to address every required qualification.
 
 #### Example
 
 **Program Analyst GS-343-11**  
-January 2009 - Present  
+January 2009—Present  
 40 Hours/Week  
 $63,000/Year
 
@@ -51,16 +60,16 @@ $63,000/Year
 Don't limit yourself to only including paid work experience. Include relevant volunteer work or community organizations roles that demonstrate your ability to do the job.
 
 ### Use numbers to highlight your accomplishments
-Use numbers, percentages or dollars to highlight your accomplishments--you can find this information in things like your performance reviews, previous job descriptions, awards and letters of recommendation.
+Use numbers, percentages or dollars to highlight your accomplishments—you can find this information in things like your performance reviews, previous job descriptions, awards and letters of recommendation.
 
 When explaining your accomplishments:
 
-* Include examples of how you saved money, earned money, or managed money.
+* Include examples of how you saved money, earned money or managed money.
 * Include examples of how you saved or managed time.
 
 #### Examples
 
-* "Improved efficiency of document processing by 25% over the previous year".
+* "Improved efficiency of document processing by 25 percent over the previous year".
 * "Wrote 25 news releases in a three-week period under daily deadlines".
 * "Managed a student organization budget of more than $7,000".
 * "Wrote prospect letter that has brought in more than $25,000 in donations to date".
@@ -80,14 +89,14 @@ For example, if the qualifications section says you need experience with “MS P
 ### Organize your resume to make it easy to understand
 You need to organize your resume to help agencies evaluate your experience. If you don't provide the information required for the hiring agency to determine your qualifications, you might not be considered for the job.
 
-* Use reverse chronological order to list your experience--start with your most recent experience first and work your way back.
+* Use reverse chronological order to list your experience—start with your most recent experience first and work your way back.
 * Provide greater detail for experience that is relevant to the job for which you are applying.
 * Show all experiences and accomplishments under the job in which you earned it.  This helps agencies determine the amount of experience you have with that particular skill.
 * Use either bullet or paragraph format to describe your experiences and accomplishments.
-* Use plain language-- avoid using acronyms and terms that are not easily understood.
+* Use plain language—avoid using acronyms and terms that are not easily understood.
 
 ### Be concise
-Hiring agencies often receive dozens or even hundreds of resumes for certain positions.  Hiring managers quickly skim through submissions and eliminate candidates who clearly are not qualified. Look at your resume and ask:
+Hiring agencies often receive dozens or even hundreds of resumes for certain positions. Hiring managers quickly skim through submissions and eliminate candidates who clearly are not qualified. Look at your resume and ask:
 
 * Can a hiring manager see my main credentials within 10 to 15 seconds?
 * Does critical information jump off the page?
@@ -98,7 +107,7 @@ Check your resume for spelling and grammatical errors and have someone else, wit
 
 ## Important facts about the federal hiring process
 
-* The Federal Government does have a standard job application. Your resume is your application.
+* The federal government does have a standard job application. Your resume is your application.
 * Hiring agencies use the job announcement to describe the job and list the required qualifications and responsibilities.
 * After applying, the hiring agency uses the information in your resume to verify if you have the required qualifications stated in the job announcement.
 * Once the hiring agency has determined who is qualified, they may use other assessments such as interviews or testing to determine the best qualified applications.
