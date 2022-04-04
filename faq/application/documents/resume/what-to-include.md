@@ -30,9 +30,9 @@ Federal jobs often require that you have experience in a particular type of work
 
 ### Include important contact information
 
-Don't forget to add current contact information. Most job applications require this information including:
+Don't forget to add current contact information. Most job applications require this information:
 * Address
-* Email address
+* Email
 * Phone number
 
 Read the job opportunity carefully to make sure you have included all required contact information. 
