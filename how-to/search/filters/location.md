@@ -55,4 +55,4 @@ How to search for telework-eligible jobs:
 2. Go to **Locations**.
 3. Select the **Offers telework** checkbox.
 
-[What is telework?](https://www.usajobs.gov/Help/faq/job-announcement/telework
+[What is telework?](https://www.usajobs.gov/Help/faq/job-announcement/telework/)
