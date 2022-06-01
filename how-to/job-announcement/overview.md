@@ -27,9 +27,19 @@ This section lists the work location(s). Many jobs have multiple locations. It�
 
 Some jobs have more than one vacancy per location. The number of vacancies is listed above each location. 
 
-**Telework eligible**
+[How to filter results by location](https://www.usajobs.gov/Help/how-to/search/filters/location/).
 
-This tells you if the job has an option for telework. Many federal jobs offer the chance to work from home. The work schedule and telework frequency depend on the agency and the job duties. Even if you see a “yes”, this does not guarantee you will have the option to work from home. 
+**Remote job** 
+
+Some jobs are only remote work. A remote job means you will work all the time at an approved alternative worksite away from the agency worksite. Remote jobs have the location **Anywhere in the U.S. (remote job)** listed. 
+
+[How to filters results by remote jobs](https://www.usajobs.gov/Help/faq/job-announcement/remote/). 
+
+**Telework-eligible jobs**
+
+Many federal jobs offer the option to work from home and from an office location. Sometimes this is referred to as a hybrid schedule or hybrid work, but the federal government calls this telework. How often you are required to report to an office depends on the agency and the job duties. 
+
+[What is telework](https://www.usajobs.gov/Help/faq/job-announcement/telework/)?
 
 **Travel required**
 
@@ -49,7 +59,7 @@ This tells you how often you will work. [Learn more about work schedules](../../
 
 **Service**
 
-There are three different services in the federal government; Competitive, Excepted and Senior Executive. Each service type has different rules for how they classify jobs and hire and pay employees. [Learn more about service types](../../../working-in-government/service/).
+There are three different services in the federal government; competitive, excepted and Senior Executive Service. Each service type has different rules for how they classify jobs and hire and pay employees. [Learn more about service types](../../../working-in-government/service/).
  
 **Promotion potential**
 
@@ -57,11 +67,11 @@ Some federal jobs have multiple grade levels. This section tells you if there’
  
 **Job family (Series)** 
 
-The federal government categorizes jobs as professional or trade, crafts or labor. These groups are further categorized into “series” – a family of similar jobs. The series is a numbered system to categorizing jobs. This section tells you what family or series a job belongs to. 
+The federal government categorizes jobs as professional or trade, crafts or labor. These groups are further categorized into series—a family of similar jobs. The series is a numbered system to categorizing jobs. This section tells you what family or series a job belongs to. 
 
 **Supervisory status**
 
-This section tells you if you will supervise other employees. “Yes” means you will supervise at least one other person. 
+This section tells you if you will supervise other employees. **Yes** means you will supervise at least one other person. 
 
 **Security clearance**
 
