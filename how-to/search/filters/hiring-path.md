@@ -43,7 +43,7 @@ As a current of former federal employee, you can also apply to jobs that are ope
 [Learn more about the federal employee-competitive service path](../../../../working-in-government/unique-hiring-paths/federal-employees/).
 
 ### Excepted service
-This filter will show jobs that are open to federal employees and are in the excepted service. Any federal employee, in the excepted service or competitive service, can apply to these jobs. [Learn more about the federal employee-excepted service path](../../../../working-in-government/unique-hiring-paths/federal-employees/.
+This filter will show jobs that are open to federal employees and are in the excepted service. Any federal employee, in the excepted service or competitive service, can apply to these jobs. [Learn more about the federal employee-excepted service path](../../../../working-in-government/unique-hiring-paths/federal-employees/).
 
 ### Internal to an agency
 
@@ -69,7 +69,7 @@ Select this option if you want to see jobs open to current or former time-limite
 ### Veterans
 Select this filter if you’re:
 
-* Eligible for [veterans' preference](../../../../working-in-government/unique-hiring-paths/veterans/preference/) or
+* Eligible for Veterans' Preference or
 * Separated from the armed forces under honorable conditions after three years or more, of continuous military service.
 
 [Learn more about the Veterans’ hiring path](../../../../working-in-government/unique-hiring-paths/veterans/).
