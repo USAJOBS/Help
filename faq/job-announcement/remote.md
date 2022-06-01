@@ -54,7 +54,7 @@ To search for remote jobs:
 
 Your filter choice will display above your search results. 
 
-###How to filter remote jobs using search filters 
+### How to filter remote jobs using search filters 
 
 You can choose to only show remote jobs or exclude remote jobs from your search. Go to **More filters** to change the filter under **Remote jobs**. 
 
