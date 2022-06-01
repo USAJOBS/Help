@@ -102,14 +102,14 @@ There are a couple of different options, if you’re looking for a senior execut
 
 Jobs in the SES are executive level positions classified above General Schedule (GS) grade 15 or equivalent positions in most Executive Branch agencies of the Federal Government. To qualify for these jobs you must meet the five Executive Core Qualifications.
 
-Not all senior executive level jobs are in the SES.  Agencies in the competitive or excepted service may have executive level jobs, where you may not have to meet the same qualification requirements as in the SES. [Learn more about Senior Executive jobs](../../../../working-in-government/unique-hiring-paths/senior-executive-service/).
+Not all senior executive level jobs are in the SES.  Agencies in the competitive or excepted service may have executive level jobs, where you may not have to meet the same qualification requirements as in the SES. [Learn more about senior executive jobs](../../../../working-in-government/unique-hiring-paths/senior-executive-service/).
 
 Learn more about [which jobs you are eligible to apply for](../../../../faq/application/eligibility/).
 
 ## Additional paths
 
 ### Individuals with disabilities
-If you’re an individual with a disability you can apply and compete for any job that you’re eligible for and meet the qualifications.  However, some jobs offer the Schedule A hiring path.  Schedule A gives federal agencies an optional, potentially faster, way to hire individuals with disabilities. Select this option to see jobs that offer the Schedule A hiring path.
+If you’re an individual with a disability you can apply and compete for any job that you’re eligible for and meet the qualifications. However, some jobs offer the Schedule A hiring path. Schedule A gives federal agencies an optional, potentially faster, way to hire individuals with disabilities. Select this option to see jobs that offer the Schedule A hiring path.
 
 [Learn more about the individuals with a disability hiring path](../../../../working-in-government/unique-hiring-paths/individuals-with-disabilities/).
 
