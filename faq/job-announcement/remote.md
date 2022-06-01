@@ -44,12 +44,13 @@ Yes, some government jobs may require you to live within a specific region or ar
 
 Yes, some government jobs may require you to work hours in a time zone that is different from the one you live in. Review the job announcement to understand the job requirements before applying. 
 
-##How to filter results by remote jobs 
+## How to filter results by remote jobs 
 
 To search for remote jobs: 
 
-1. Enter remote in the **Location** search box at the top of any page. You may have to click on the Search icon, at the top of the page, to display the Location box. 2. Select from the auto-populated choices. 
-3. Click Search. 
+1. Enter remote in the **Location** search box at the top of any page. You may have to click on the **Search** icon, at the top of the page, to display the **Location** box. 
+2. Select from the auto-populated choices. 
+3. Click **Search**. 
 
 Your filter choice will display above your search results. 
 
