@@ -13,5 +13,12 @@ This section lists the work location(s). Many jobs have multiple locations.  Itâ
 ## Number of vacancies per location
 Some jobs have more than one vacancy per location.  The number of vacancies is listed under each location.
 
+## Remote jobs
 
+Under the **Location** header in the **Overview** section of the job announcement, we will list the remote job location as **Anywhere in the U.S. (remote job)**. 
 
+In your search results, the location information, including whether a job is remote or not, is listed under agency name.  
+
+[What is a remote job](https://www.usajobs.gov/Help/how-to/job-announcement/remote/)?
+
+[How to filter results by location](https://www.usajobs.gov/Help/how-to/search/filters/location/).
