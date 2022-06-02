@@ -12,7 +12,7 @@ A remote job in the federal government is one where you are not expected to repo
 
 ## How do I know a job is remote?
 
-Under the **Location** header in the **Overview** section of the job announcement, we will list the remote job location as Anywhere in the U.S. (remote job). 
+Under the **Location** header in the **Overview** section of the job announcement, we will list the remote job location as **Anywhere in the U.S. (remote job)**. 
 
 In your search results, the location information, including whether a job is remote or not, is listed under agency name.  
 
