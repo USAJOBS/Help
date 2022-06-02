@@ -19,6 +19,6 @@ Under the **Location** header in the **Overview** section of the job announcemen
 
 In your search results, the location information, including whether a job is remote or not, is listed under agency name.  
 
-[What is a remote job](https://www.usajobs.gov/Help/how-to/job-announcement/remote/)?
+[What is a remote job](https://www.usajobs.gov/Help/faq/job-announcement/remote/)?
 
 [How to filter results by location](https://www.usajobs.gov/Help/how-to/search/filters/location/).
