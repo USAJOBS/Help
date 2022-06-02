@@ -22,6 +22,6 @@ To search for a telework-eligible job:
 
 [How to understand the job announcement](https://www.usajobs.gov/Help/how-to/job-announcement/).  
 
-[What is a remote job](https://www.usajobs.gov/Help/how-to/job-announcement/remote/)?  
+[What is a remote job](https://www.usajobs.gov/Help/faq/job-announcement/remote/)?  
 
 [How to filter jobs by location](https://www.usajobs.gov/Help/how-to/search/filters/location/). 
