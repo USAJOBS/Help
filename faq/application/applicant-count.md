@@ -18,6 +18,4 @@ You will not see an applicant count on jobs you have applied for that are cancel
 
 ## Why do some jobs list the applicant count and not others?
 
-Right now, we are only listing applicant counts for some jobs at specific hiring agencies to test out this feature.
-
-If you have any feedback on this new feature, please fill out the contact form below.
+Right now, agencies must choose to list the applicant count. Only agencies who have chosen this feature will show applicant counts.
