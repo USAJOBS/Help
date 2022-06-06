@@ -1,5 +1,5 @@
 ---
-permalink: /how-to/search/filters/remote
+permalink: /how-to/search/filters/remote/
 layout: article
 section: faq
 title: How to filter results by remote jobs
