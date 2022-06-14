@@ -2,21 +2,24 @@
 permalink: /faq/search/part-time/
 layout: article
 section: faq
-title: Where can I find part-time positions?
-breadcrumb: Part-time
+title: What is the Bipartisan Infrastructure Law? 
+breadcrumb: infrastructure-law
 category: Search
-tags: [search, students, part-time, work schedule]
+tags: [search, infrastructure, jobs, mission critical]
 ---
 
-You can search for part-time work using the search filters that appear on the right side of the search results page.
-On the search results page:
+The Infrastructure Investment and Jobs Act, also known as the Bipartisan Infrastructure Law, is an historic investment in America. The federal government needs to fill essential and mission-driven roles: scientists to combat climate change, engineers to repair and rebuild our roads and bridges and workers to help ensure that every community in America has clean water, among many others.  
+ 
+## Where can I find Bipartisan Infrastructure Law positions? 
 
-1.	Click **More Filters**.
-2.	Go to **Work schedule**.
-3.	Select **Part-time**.  
+You can use the search filters that appear on the right side of the search results page to find related jobs. On the search results page: 
 
-Your search results will update to include only part-time jobs.
+1. Click **More Filters**. 
+2. Go to **Mission critical career field**. 
+3. Select **Infrastructure Act**. 
+
+Your search results will update to list only jobs related to the Bipartisan Infrastructure Law.
 
 ## Additional resources
 
-* [Appointment types](../../../working-in-government/pay-and-leave/appointment-types/)
+* [Appointment types](../../../how-to/search/filters/mission-critical-career/)
