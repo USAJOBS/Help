@@ -14,7 +14,7 @@ To search for a job by location:
 2.	Keep typing the location or select from the auto-populated choices.
 3.	Click **Search**.
 
-Your location(s) will display above your search results.  
+Your location(s) will display above your search results. Remote jobs are automatically included in search results unless you exclude them from your location search.
 
 ## Add and remove locations
 You can search on multiple locations at the same time—just enter another location in the **Location** search box (you can only enter one at a time). You can search by city, county, state, zip code, country or by typing remote. 
