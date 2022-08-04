@@ -7,7 +7,7 @@ category: Filters
 tags: [search, filters, who may apply, hiring path]
 ---
 
-Some federal jobs are open to the general public — meaning any U.S. citizen can apply. But, some federal jobs are only open to eligible current or former federal employees or people who may be eligible under a unique hiring path. You can filter your job search results to only show you jobs that meet your specific eligibility criteria. You can filter by one or more hiring paths.
+Some federal jobs are open to the general public—meaning any U.S. citizen can apply. But, some federal jobs are only open to eligible current or former federal employees or people who may be eligible under a unique hiring path. You can filter your job search results to only show you jobs that meet your specific eligibility criteria. You can filter by one or more hiring paths.
 
 You can filter your job search results by hiring path to only show jobs you may be eligible for. You must read the **This job is open to** section of the job announcement to determine if you’re eligible to apply.  You can also read the **Who May Apply** section, but not all job announcements have that information.
 
@@ -20,7 +20,7 @@ Select this option if you're a:
 * U.S. citizen or
 * National or individual who owes allegiance to the U.S.
 
-### Who is a National or individual who owes allegiance to the U.S.?  
+### Who is a national or individual who owes allegiance to the U.S.?  
 
 Most federal jobs require you to be a [U.S. citizen](../../../../working-in-government/us-citizens/), but there are some exceptions for [nationals and individuals who owe allegiance to the U.S.](https://www.uscis.gov/ilink/docView/SLB/HTML/SLB/0-0-0-1/0-0-0-29/0-0-0-9696.html){:target="_blank"}, including those from the American Samoa and Swain Islands. The **Who May Apply** section of each job announcement lists whether the job is open to U.S. citizens and non-U.S. citizens.
 
@@ -40,14 +40,16 @@ This filter will show jobs that are open to current or former competitive servic
 
 As a current of former federal employee, you can also apply to jobs that are open to the public.
 
-[Learn more about the federal employee-competitive service path](../../../../working-in-government/unique-hiring-paths/federal-employees/).
+[Learn more about the federal employee—competitive service path](../../../../working-in-government/unique-hiring-paths/federal-employees/).
 
 ### Excepted service
-This filter will show jobs that are open to federal employees and are in the excepted service. Any federal employee, in the excepted service or competitive service, can apply to these jobs. [Learn more about the federal employee-excepted service path](../../../../working-in-government/unique-hiring-paths/federal-employees/).
+This filter will show jobs that are open to federal employees and are in the excepted service. Any federal employee, in the excepted service or competitive service, can apply to these jobs. 
+
+[Learn more about the federal employee—excepted service path](../../../../working-in-government/unique-hiring-paths/federal-employees/).
 
 ### Internal to an agency
 
-This filter will show jobs that are only open to current agency employees.  Use this filter if you’re interested in staying within your agency. 
+This filter will show jobs that are only open to current agency employees. Use this filter if you’re interested in staying within your agency. 
 
 [Learn more about the internal to an agency hiring path](../../../../working-in-government/unique-hiring-paths/federal-employees/internal/).
 
@@ -96,11 +98,11 @@ This filter will show jobs open to recent graduates—those who have graduated w
 [Learn more about the recent graduates hiring path](../../../../working-in-government/unique-hiring-paths/students/).
 
 ## Senior Executives
-There are a couple of different options, if you’re looking for a senior executive level job in the Federal Government.
+There are a couple of different options, if you’re looking for a senior executive level job in the federal government.
 1. The Senior Executive Service (SES)
 2. Senior executive level jobs outside of the SES
 
-Jobs in the SES are executive level positions classified above General Schedule (GS) grade 15 or equivalent positions in most Executive Branch agencies of the Federal Government. To qualify for these jobs you must meet the five Executive Core Qualifications.
+Jobs in the SES are executive-level positions classified above General Schedule (GS) grade 15 or equivalent positions in most Executive Branch agencies of the federal government. To qualify for these jobs you must meet the five Executive Core Qualifications.
 
 Not all senior executive level jobs are in the SES.  Agencies in the competitive or excepted service may have executive level jobs, where you may not have to meet the same qualification requirements as in the SES. [Learn more about senior executive jobs](../../../../working-in-government/unique-hiring-paths/senior-executive-service/).
 
@@ -115,7 +117,7 @@ If you’re an individual with a disability you can apply and compete for any jo
 
 ### Family of overseas employees
 
-If you’re currently overseas with a family member, and moving back to the United States, you may be eligible for a competitive service job without having to compete with the public. If you’re moving overseas, because a family member has been assigned to an overseas duty of station, you may be eligible to apply for overseas jobs with the Federal Government.
+If you’re currently overseas with a family member, and moving back to the United States, you may be eligible for a competitive service job without having to compete with the public. If you’re moving overseas, because a family member has been assigned to an overseas duty of station, you may be eligible to apply for overseas jobs with the federal government.
 
 [Learn more about the family of overseas employees hiring path](../../../../working-in-government/unique-hiring-paths/family-of-overseas-employees/).
 

@@ -10,11 +10,11 @@ tags: [ctap, ictap, merit-promotion, status, eligibility, federal employees, com
 
 ## Career Transition Assistance Plan (CTAP)
 
-The Career Transition Assistance Plan (CTAP) is an intra-agency program that helps "surplus" or "displaced" federal employees improve their chances of finding a new job in their agency, by giving them selection priority over other applicants, as long as they’re qualified for the job.
+The Career Transition Assistance Plan (CTAP) is an intra-agency program that helps surplus or displaced federal employees improve their chances of finding a new job in their agency, by giving them selection priority over other applicants, as long as they’re qualified for the job.
 
 You're eligible for CTAP if:
 
-1. You're a current federal employee who meets the definition of a "surplus" or "displaced employee—you've received official notice that your job is no longer needed or that you will lose your job by Reduction-in-Force (RIF).
+1. You're a current federal employee who meets the definition of a surplus or displaced employee—you've received official notice that your job is no longer needed or that you will lose your job by Reduction in Force (RIF).
 2. Your agency is accepting applications from within or outside of the permanent workforce.
 3. You meet the qualifications and other requirements of the job you’re applying for.
 
@@ -24,11 +24,11 @@ Each agency has a specific CTAP with more detailed information about the agency'
 
 ## Interagency Career Transition Assistance Plan (ICTAP)
 
-The Interagency Career Transition Assistance Plan(ICTAP) is an interagency program that helps "surplus" or "displaced" federal employees improve their chances of finding a new job at another agency (not their current or former agency), by giving them selection priority over other applicants from outside the agency.
+The Interagency Career Transition Assistance Plan (ICTAP) is an interagency program that helps surplus or displaced federal employees improve their chances of finding a new job at another agency (not their current or former agency), by giving them selection priority over other applicants from outside the agency.
 
 You’re eligible for ICTAP if:
 
-1. You're a current federal employee who meets the definition of a "surplus" or "displaced employee—you've received official notice that your job is no longer needed or that you will lose your job by Reduction-in-Force (RIF).
+1. You're a current federal employee who meets the definition of a surplus or displaced employee—you've received official notice that your job is no longer needed or that you will lose your job by Reduction-in-Force (RIF).
 2. The agency you're applying to is accepting applications from outside of their workforce.
 3. The job you're applying to is in the local commuting area.
 4. You meet the qualifications and other requirements of the job you're applying for.
