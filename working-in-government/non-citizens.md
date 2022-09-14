@@ -16,7 +16,7 @@ In rare cases, a federal agency may:
 * Request approval to hire a non-U.S. citizen into the [competitive service](../service/), if no qualified U.S. citizen is available. 
 
 ## How do I know if a job is open to a non-U.S. citizen?
-Each job announcement lists a **This job is open to** seciont and a **Qualifications** section to help you understand if you fit the job’s requirements. The **This job is open to** section will tell you whether or not a non-U.S. citizen is eligible for the job.
+Each job announcement lists a **This job is open to** section and a **Qualifications** section to help you understand if you fit the job’s requirements. The **This job is open to** section will tell you whether or not a non-U.S. citizen is eligible for the job.
 
 If you still have questions after reviewing the job announcement, contact the agency listed on the job announcement or read the full [legal requirements for hiring U.S. citizens or non-U.S. citizens](#legal-requirements-for-hiring-or-not-hiring-a-non-us-citizen).
 
