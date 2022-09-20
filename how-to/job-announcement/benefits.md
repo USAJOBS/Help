@@ -12,6 +12,6 @@ The federal government offers a comprehensive benefits package to employees. As 
 
 Eligibility for benefits depends on the type of job and whether you're full-time, part-time, or intermittent. Contact the hiring agency for more information on the specific benefits offered.
 
-[Learn more about the federal employee compensation package](https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/federal-employee-compensation-package/){:target="_blank"}.
+[Learn more about the federal employee compensation package](https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/federal-employee-compensation-package/).
 
 
