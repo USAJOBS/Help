@@ -65,3 +65,7 @@ Our web site has links to other federal agencies. We also link to other organiza
 We ensure that our web site remains available to all users by using a government computer system that employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
 
 View the <a href="https://www.opm.gov/information-management/privacy-policy/">complete OPM Privacy Policy</a>.
+
+### Vulnerability Disclosure Policy (VDP)
+
+The Office of Personnel Management (OPM) is committed to ensuring the security of the American public by safeguarding their digital information. The Vulnerability Disclosure Policy (VDP) provides guidelines for the cybersecurity research community and members of the general public (hereafter referred to as researchers) on conducting good faith vulnerability discovery activities directed at public facing OPM websites and services. The VDP also instructs researchers on how to submit discovered vulnerabilities to the OPM's Office of the Chief Information Officer (OCIO).
