@@ -15,7 +15,7 @@ Whether you're a current federal employee or new to the federal government, your
 Read the entire job announcement.  Focus on the following sections to understand whether or not you qualify for the position.  This critical information is found under:
 
 * **Duties** and **Qualifications**
-* **How to Apply** (including a preview of the assessment questionnaire)
+* **How to Apply** (including a preview of the assessment questionnaire, if applicable)
 * **How You Will be Evaluated**
 
 Make sure you have the required experience and/or education before you apply. Hiring agencies use the job announcement to describe the job and the required qualifications, including:
