@@ -9,11 +9,9 @@ tags: [selective, service, draft, registration, conditions of employment]
 ---
 
 <h2 class="usajobs-help-center__lead">
-  If you are a male applicant born after December 31, 1959, you must certify that you have registered with the Selective Service System, or are exempt from having to do so under the Selective Service Law.
+  If you are a male born after December 31, 1959, you should be registered with the Selective Service unless you are exempt from registering. Those required to register usually do so between the ages of 18-26.
 </h2>
 
-The Selective Service System is an independent agency within the Executive Branch of the U.S. Federal Government. It's mission is "&hellip;To furnish manpower to the Defense Department during a national emergency, to manage alternative service for men classified as conscientious objectors, and to register, with only a few exceptions, all male U.S. citizens and male immigrants residing in the United States who are ages 18 through 25&hellip;"
+USAJOBS does not collect this information, but you might be asked later in the application process or during onboarding if you are registered or to show that you're exempt.  
 
-You can update your Selective Service status in [your USAJOBS profile](../../../how-to/account/profile/).
-
-If you're hired, you will need to provide your selective service registration information during your on-boarding process. You can find this information by calling the Selective Service registration information line at 1-847-688-6888 or at <a href="https://www.sss.gov/Registration/Check-a-Registration/Verification-Form">https://www.sss.gov/Registration/Check-a-Registration/Verification-Form</a>.
+You can find this information by calling the Selective Service registration information line at 1-847-688-6888 or at [the Selective Service System website](https://www.sss.gov/verify/).

@@ -14,7 +14,7 @@ To create and complete a profile:
 
 1. [Create a login.gov account](https://www.usajobs.gov/Applicant/ProfileDashboard/Home/) and click **Continue to USAJOBS** at the end. You’ll go back to USAJOBS.
 2. Click Complete profile.
-3. Complete your required information—Contact Information, Citizenship and Selective Service information, Federal Service and Military Service. 
+3. Complete your required information—contact information, citizenship, federal service and military service. 
 4. Click **Create my profile**.  
 
 Once you complete the required information in your profile, you can apply for jobs. However, you can enhance your profile by filling out the optional information—we use this information to improve your job search results 
