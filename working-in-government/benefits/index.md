@@ -41,9 +41,3 @@ The Federal Long Term Care Insurance Program (FLTCIP) provides long-term care in
 The Federal Flexible Spending Account Program (FSAFEDS) is a great way to help you save money by setting aside pre-tax dollars from your paycheck to help pay for eligible healthcare or child care costs. If you’re eligible as a new or current federal employee, then you can set up either a healthcare or dependent care flexible spending account or both.  
 
 [Learn more about flexible spending accounts](https://www.opm.gov/healthcare-insurance/flexible-spending-accounts/){:target="_blank" rel="noopener"}.
-
-## Public service loan forgiveness overhaul 
-
-For a limited time, federal student loan borrowers may receive credit for past periods of repayment that would otherwise not qualify for the Public Service Loan Forgiveness Program (PSLF). This change ends October 31, 2022. After that, normal PSLF rules will apply.  
-
-[Learn more about the Public Service Loan Forgiveness program](https://studentaid.gov/pslf/){:target="_blank" rel="noopener"}. 
