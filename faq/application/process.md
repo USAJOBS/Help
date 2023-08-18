@@ -16,9 +16,9 @@ First, you need to [create an account with login.gov](https://www.usajobs.gov/Ap
 
 ## 2. Create a USAJOBS profile
 
-Once you have a login.gov account, you need to [create a profile on USAJOBS](../../../how-to/account/profile/) to apply to any job.
+Once you have a login.gov account, you need to [create a profile on USAJOBS](../../../how-to/account/profile/) to apply for any job.
 
-With a USAJOBS profile you can:
+With a USAJOBS profile, you can:
 
 * Apply to any job on USAJOBS.
 * Save jobs you’re interested in.
@@ -27,12 +27,11 @@ With a USAJOBS profile you can:
 * Upload and save required documents.
 * Have a more personalized experience.
 
-
 ## 3. Search for jobs
 
 Start your job search by typing in a keyword or location. Use our search filters to narrow your results by salary, work schedule, agency and more.
 
-You can search for jobs anytime, but it’s best to create and sign into your profile before doing a search. Why? Because, we can use your profile information to improve your job search results. [Learn how to search for jobs](../../../how-to/search/).
+You can search for jobs anytime, but it’s best to create and sign into your profile before doing a search. Why? We can use your profile information to improve your job search results. [Learn how to search for jobs](../../../how-to/search/).
 
 ### Save your search
 
@@ -50,27 +49,27 @@ Contact the agency representative if you have questions. The contact information
 
 ## 5. Prepare your application in USAJOBS
 
-Read the **How to Apply** section of the job announcement before starting your application. Click **Apply** to [start your application](../../../how-to/application/)—we’ll walk you through a five-step process where you’ll attach a resume and any required documents.  
+Read the **How to Apply** section of the job announcement before starting your application. Click **Apply** to [start your application](../../../how-to/application/)—we’ll walk you through a short process where you’ll attach a resume and any required documents.  
 
-During the application process you can review, edit, and delete your information. We’ll automatically save your progress as you go, so you won’t lose any changes. [Learn how to create an application](../../../how-to/application/).
+During the application process, you can review, edit and delete your information. We’ll automatically save your progress as you go, so you won’t lose any changes. [Learn how to create an application](../../../how-to/application/).
 
 ## 6. Submit application to agency
 
-When your application is ready in USAJOBS, we’ll send you to the agency application system where you can submit your application. Before you submit, you may need to complete other agency-required steps such as:
+When your application is ready in USAJOBS, we’ll send you to the agency application system where you can submit your application. Before you submit, you may need to complete other agency-required steps like:
 
 * Providing more personal information.
 * Providing more documentation.
 * Answering eligibility questions.
 * Completing an occupational questionnaire—look for a preview of the questions under the **Required documents** section.
 
-It may take you longer to apply to some jobs than others, because some agencies and jobs require more information than others.
+It may take you longer to apply to some jobs than others because some agencies and jobs require more information than others.
 
 After you submit your application, go back to the **Application** section of your USAJOBS account and make sure the hiring agency received your application. Your application status will say you applied with the date you submitted your application if it went through.
 
 You can always [check the status of your application](../../../how-to/application/status/) in your USAJOBS profile with the **Track This Application** link. 
 
 ### How long will it take to receive an updated status?
-It may take a few hours, after you submit your application, for the agency to update your status. You may also receive an email confirmation from the agency application system, but not all agencies send email confirmations.
+It may take a few hours after you submit your application, for the agency to update your status. You may also receive an email confirmation from the agency application system, but not all agencies send email confirmations.
 
 ## 7. Agency reviews application
 
@@ -92,7 +91,7 @@ Hiring officials can interview applicants using:
 * Video
 * Phone
 
-There may be more than one interview round. For example, an applicant may have a phone interview and then an in-person interview.
+There may be more than one interview round. For example, you may have a phone interview and then an in-person interview.
 
 ### How long will it take to schedule an interview?
 It may take some time to schedule interviews, depending on the number of people being interviewed.
@@ -107,3 +106,6 @@ The hiring agency will extend a tentative job offer. Once this offer is accepted
 
 ### When is the job offer final?
 The job offer is final when the agency successfully completes the background investigation and any additional security checks. The hiring agency will contact the candidate(s) directly to set up a start date.
+
+## Additional resources
+* [Video: The federal application and hiring process]([https://www.youtube.com/watch?v=Nu0cgjU8zfo&list=PLuzWeT0b0ErDp0OOJ1kmBIPTppAWSx8mm](https://www.youtube.com/watch?v=SJ0enL8KoeI)https://www.youtube.com/watch?v=SJ0enL8KoeI)
