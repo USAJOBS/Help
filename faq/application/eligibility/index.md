@@ -39,3 +39,4 @@ The job announcement may list the following:
 
 * [Hiring authorities (OPM)](https://www.opm.gov/policy-data-oversight/hiring-information/hiring-authorities/){:target="_blank"}
 * [Veterans Employment Opportunities Act (VEOA)](https://www.fedshirevets.gov/job/shav/index.aspx/){:target="_blank"}
+* [Video: What is means to be eligible and qualified?](https://www.youtube.com/watch?v=Nu0cgjU8zfo&list=PLuzWeT0b0ErDp0OOJ1kmBIPTppAWSx8mm){:target="_blank"}

@@ -10,11 +10,11 @@ tags: [eligibility]
 
 ## What is eligibility?
 
-Eligibility, in the federal hiring process, refers to being part of a particular group of people that an agency wants to hire – whether it’s a current federal employee, a veteran, or a recent graduate. There are several different eligibilities in the Federal Government; we call them "[hiring paths](../../../../working-in-government/unique-hiring-paths/)".
+Eligibility, in the federal hiring process, refers to being part of a particular group of people that an agency wants to hire—whether it’s a current federal employee, a veteran or a recent graduate. There are several different eligibilities in the federal government; we call them [hiring paths](../../../../working-in-government/unique-hiring-paths/).
 
-For example, some jobs are only open to current or former federal employees—this means you must be a current or former federal employee to be **eligible**. Other jobs may be open to a current student or recent graduate—if you're not a current student or recent graduate, you’re not eligible.
+For example, some jobs are only open to current or former federal employees—this means you must be a current or former federal employee to be **eligible**. Other jobs may be open to a current student or recent graduate. If you're not a current student or recent graduate, you’re not eligible.
 
-Your eligibility has nothing to do with your work experience, skills, and other qualifications.
+Your eligibility has nothing to do with your work experience, skills and other qualifications.
 
 ## Why is eligibility important?
 
@@ -32,11 +32,11 @@ Regardless of your qualifications, if you're not eligible, the hiring agency wil
 
 ### Before you apply
 
-You must read the **This job is open to** and **Who may apply** sections of the job announcement to see if you're eligible for the job. If you fall into one of the "[hiring paths](../../../../working-in-government/unique-hiring-paths/)" listed, you're [eligible](../) for the job. If you don't fall into one of those groups, you should look at a different job.
+You must read the **This job is open to** and **Who may apply** sections of the job announcement to see if you're eligible for the job. If you fall into one of the [hiring paths](../../../../working-in-government/unique-hiring-paths/) listed, you're [eligible](../) for the job. If you don't fall into one of those groups, you should look at a different job.
 
 ### After you apply
 
-The agency will first review your application to see if you're eligible. If you're not eligible, they will reject your application—they won't even look at your qualifications. It doesn't matter if you have the qualifications – you must first be eligible.
+The agency will first review your application to see if you're eligible. If you're not eligible, they will reject your application—they won't even look at your qualifications. It doesn't matter if you have the qualifications—you must first be eligible.
 
 If you're eligible, the agency will then look at your qualifications.
 
@@ -44,10 +44,13 @@ If you're eligible, the agency will then look at your qualifications.
 
 ### Before you apply
 
-You must read the **Qualifications** section of the job announcement. Your application must show, you have the specialized experience, education, and other qualifications listed in the job announcement.  
+You must read the **Qualifications** section of the job announcement. Your application must show, you have the specialized experience, education and other qualifications listed in the job announcement.  
 
 ### After you apply
 
-If you're eligible for the job, the agency will review your qualifications and rank you based on how well you meet the qualifications. The agency may rank you as "minimally qualified", "highest qualified", or somewhere in between. Based on how well you meet the qualifications, your application may, or may not, continue through the application process.
+If you're eligible for the job, the agency will review your qualifications and rank you based on how well you meet the qualifications. The agency may rank you as **minimally qualified**, **highest qualified** or somewhere in between. Based on how well you meet the qualifications, your application may or may not, continue through the application process.
 
-[Learn more about the federal application process](../../process/).
+## Additional resources
+
+* [Learn more about the federal application process](../../process/).
+* [Video: What is means to be eligible and qualified](https://www.youtube.com/watch?v=Nu0cgjU8zfo&list=PLuzWeT0b0ErDp0OOJ1kmBIPTppAWSx8mm)?
