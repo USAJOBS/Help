@@ -14,21 +14,21 @@ The Federal Government employs permanent and temporary employees.
 
 ### Career-conditional appointment
 
-Permanent employees are generally hired under a career-conditional appointment (Permanent - Career-conditional appointment). Normally this is the first career-type of appointment and the appointee must complete a 1-year <span data-term="Probationary Period">probationary period</span> and a total of 3 years continuous creditable service to attain a career appointment (Permanent - Career appointment).
+Permanent employees are generally hired under a career-conditional appointment. Normally this is the first career-type of appointment and the appointee must complete a one-year <span data-term="Probationary Period">probationary period</span> and a total of three years continuous creditable service to attain a career appointment.
 
 ### Career appointment
 
-A career appointment begins once an employee has completed three years of permanent substantially continuous creditable service in the [competitive service](../service#competitive-service).
+A person employed in the [competitive service](../service#competitive-service) on a permanent basis is appointed as a either a career or career-conditional employee.  Career tenure is attained after the individual successfully completes a probationary period and has three years of creditable service.
 
 ### Non-temporary appointment
 
-A non-temporary appointment does not have a specific “not-to-exceed” date associated with it. In other words, it is not a temporary appointment.
+A non-temporary appointment does not have a specific not-to-exceed date associated with it. In other words, it is not a temporary appointment.
 
 ### Non-competitive appointment
 
-Under certain hiring authorities, which are established by law or Executive Order, a hiring manager may hire candidates directly without having to go through the full application process. Job announcements specify whether a position is competitive or non-competitive under the “Who May Apply” section.
+Under certain hiring authorities, which are established by law or Executive Order, a hiring manager may hire candidates directly without having to go through the full application process. Job announcements specify whether a position is competitive or non-competitive under the **This job is open to** section.
 
-Veterans, persons with disabilities, many current and former federal employees, and returning Peace Corps volunteers are examples of individuals eligible for non-competitive appointment.
+Veterans, persons with disabilities, many current and former federal employees and returning Peace Corps volunteers are examples of individuals eligible for non-competitive appointment.
 
 ## Temporary appointments
 
