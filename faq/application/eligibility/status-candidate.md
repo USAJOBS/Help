@@ -17,5 +17,5 @@ Look for the **This job is open to section** in the job announcement.  If the jo
 
 ## Additional resources
 
-* [Working in Government - Unique Hiring Paths - Federal employees](../../../../working-in-government/unique-hiring-paths/federal-employees/)
+* [Hiring paths: federal employees](../../../../working-in-government/unique-hiring-paths/federal-employees/)
 * [Video: What is means to be eligible and qualified](https://www.youtube.com/watch?v=Nu0cgjU8zfo&list=PLuzWeT0b0ErDp0OOJ1kmBIPTppAWSx8mm)?
