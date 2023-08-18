@@ -52,6 +52,5 @@ If you're eligible for the job, the agency will review your qualifications and r
 
 ## Additional resouces
 
-[Learn more about the federal application process](../../process/).
-
-[Video: What is means to be eligible and qualified](https://www.youtube.com/watch?v=Nu0cgjU8zfo&list=PLuzWeT0b0ErDp0OOJ1kmBIPTppAWSx8mm)?
+*[Learn more about the federal application process](../../process/).
+*[Video: What is means to be eligible and qualified](https://www.youtube.com/watch?v=Nu0cgjU8zfo&list=PLuzWeT0b0ErDp0OOJ1kmBIPTppAWSx8mm)?
