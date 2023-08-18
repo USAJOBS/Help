@@ -17,3 +17,8 @@ You can find the agency contact information at the bottom of the job announcemen
 3.	Click the **+** icon or job title.
 4.	Click **Full job announcement**.
 5.	Scroll to the bottom of the job announcement and use the contact phone number or email listed.
+
+
+## Additional resources
+
+*[Video: What is means to be eligible and qualified?](https://www.youtube.com/watch?v=Nu0cgjU8zfo&list=PLuzWeT0b0ErDp0OOJ1kmBIPTppAWSx8mm){:target="_blank"}
