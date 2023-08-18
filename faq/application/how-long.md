@@ -29,3 +29,5 @@ You can [check the status of your application(s)](../../../how-to/application/st
 ## How long does it take once I get a federal job offer?
 If you receive and accept a tentative job offer, it may take a few weeks to a few months before you start the job.  The background investigation and other security checks begin once you accept the offer. The length of these checks depends on the security clearance level of the job. Once the background investigation and additional security checks are done, the hiring agency will extend a final job offer and setup a start date.
 
+## Additional resources
+* [Video: The federal application and hiring process](https://www.youtube.com/watch?v=SJ0enL8KoeI)
