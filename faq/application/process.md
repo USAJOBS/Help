@@ -108,4 +108,4 @@ The hiring agency will extend a tentative job offer. Once this offer is accepted
 The job offer is final when the agency successfully completes the background investigation and any additional security checks. The hiring agency will contact the candidate(s) directly to set up a start date.
 
 ## Additional resources
-* [Video: The federal application and hiring process]([https://www.youtube.com/watch?v=Nu0cgjU8zfo&list=PLuzWeT0b0ErDp0OOJ1kmBIPTppAWSx8mm](https://www.youtube.com/watch?v=SJ0enL8KoeI)https://www.youtube.com/watch?v=SJ0enL8KoeI)
+* [Video: The federal application and hiring process](https://www.youtube.com/watch?v=SJ0enL8KoeI)
