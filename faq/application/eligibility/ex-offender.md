@@ -31,6 +31,6 @@ For most federal jobs, questions about your criminal history don’t appear on t
 It’s important that you provide all the required information about your criminal record when you apply for a federal job so the hiring agency can determine early if a specific prohibition exists.
 
 ## Additional resources
-*[Video: What is means to be eligible and qualified](https://www.youtube.com/watch?v=Nu0cgjU8zfo&list=PLuzWeT0b0ErDp0OOJ1kmBIPTppAWSx8mm)?
+* [Video: What is means to be eligible and qualified](https://www.youtube.com/watch?v=Nu0cgjU8zfo&list=PLuzWeT0b0ErDp0OOJ1kmBIPTppAWSx8mm)?
 
 
