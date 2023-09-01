@@ -25,7 +25,7 @@ With a USAJOBS profile, you can:
 * Save and automate job searches.
 * Upload and save resumes or create one using our resume builder.
 * Upload and save required documents.
-* Have a more personalized experience.
+* Update your preferences.
 
 ## 3. Search for jobs
 
