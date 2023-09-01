@@ -21,9 +21,12 @@ Once you complete the required information in your profile, you can apply for jo
 
 You can also make your resume and profile searchable. Making your resume searchable adds it to the USAJOBS resume bank. HR specialists and hiring managers from federal agencies use the resume bank to look for people to fill their job vacancies.
 
+[Video: How to create a USAJOBS.gov profile](https://www.youtube.com/watch?v=qNGoY3E435E)
+
 ## Applying to a job and see this message?
 
 > To apply to jobs, you need to create a profile. We’ll walk you through a few steps to collect some information about you. 
 
 This means your profile isn’t complete. Click **Complete profile** and complete all of the required fields. 
+
 
