@@ -33,7 +33,7 @@ Special non-competitive appointing authorities are established by law or Executi
 
 * [Direct-Hire authority](https://www.opm.gov/policy-data-oversight/hiring-information/direct-hire-authority/){:target="_blank"}
 * [People with disabilities](https://www.opm.gov/policy-data-oversight/disability-employment/){:target="_blank"}
-* [30% Disabled Veterans appointing authority](https://www.opm.gov/policy-data-oversight/hiring-information/veterans-authorities/){:target="_blank"}
+* [30% Disabled Veterans appointing authority](https://www.opm.gov/fedshirevets/veteran-job-seekers/vets){:target="_blank"}
 
 Veterans, individuals with disabilities, many current and former federal employees, and returning Peace Corps volunteers are all examples of individuals eligible for [non-competitive appointment](../appointments/).
 
