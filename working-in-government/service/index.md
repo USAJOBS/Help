@@ -19,7 +19,7 @@ In the competitive service, individuals must go through a competitive hiring pro
 
 ## Excepted service
 
-Excepted service positions are any federal or civil service positions which are not in the competitive service or the Senior Executive service. Excepted service agencies set their own qualification requirements and are not subject to the appointment, pay, and classification rules in title 5, United States Code. However, they are subject to [veterans' preference](../unique-hiring-paths/veterans/preference/).
+Excepted service positions are any federal or civil service positions which are not in the competitive service or the Senior Executive service. Excepted service agencies set their own qualification requirements and are not subject to the appointment, pay, and classification rules in title 5, United States Code. However, they are subject to [veterans' preference](https://www.opm.gov/fedshirevets/veteran-job-seekers/vets/){:target="_blank"}.
 
 There are a number of ways to be appointed into the excepted service such as appointed under an authority defined by the U.S. Office of Personnel Management (OPM) as excepted (e.g., Veterans Recruitment Appointment) or being appointed to a position defined by OPM as excepted (e.g., Attorneys). More information can be found about excepted service in 5 U.S.C. 2103 and parts 213 and 302 of title 5 of the Code of Federal Regulations.
 
