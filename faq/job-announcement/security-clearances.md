@@ -21,7 +21,7 @@ Public Trust is a type of background investigation, but **it is not a security c
 ## Security Clearance
 Some jobs require a security clearance. The security clearance level depends on the type of access to classified information and secure facilities that you’ll need to perform your job.
 
-For jobs that require a security clearance, you’ll need to provide at least 10 years of personal information and maybe more.  You’ll need to complete the [Standard Form 86 (SF86)](https://www.opm.gov/forms/pdf_fill/sf86-non508.pdf){:target="_blank"}.
+For jobs that require a security clearance, you’ll need to provide at least 10 years of personal information and maybe more.  You’ll need to complete the [Standard Form 86 (SF86)](https://www.opm.gov/forms/pdf_fill/sf86.pdf){:target="_blank"}.
 
 ## Position sensitivity and risk
 Most federal jobs are assigned sensitivity and risk levels, based on their responsibilities and duties. Sensitivity has to do with the position's potential impact on the national security of the United States. For example, a non-sensitive position has no impact on the national security. Risk has to do with a position's potential to damage the public's trust in the Federal Government.
