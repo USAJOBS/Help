@@ -15,5 +15,5 @@ However, once you enter the specific agency application system, your application
 You can view your saved application in your USAJOBS profile:
 
 1.	Sign into USAJOBS.
-2.	Go to your **Applications**, located on your **Home** page.
+2.	Go to your **Applications**, located on your **Dashboard** page.
 3.	Select **Active** or **Archived** to view your active and archived applications.
